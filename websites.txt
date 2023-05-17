@@ -1,0 +1,11 @@
+List of websites:
+-https://accounts.google.com/
+-https://iam.kaist.ac.kr/iamps/IampsLoginMain.do?locale=en
+-https://otl.kaist.ac.kr/account
+-https://us.trip.com/?locale=en_us
+-https://www.airbnb.com/
+-https://www.coupang.com/
+-https://www.calculator.net/hex-calculator.html
+-https://www.derivative-calculator.net/
+-https://www.desmos.com/calculator
+-https://www.netflix.com/browse
