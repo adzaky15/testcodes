@@ -1,0 +1,5 @@
+generate test codes in javascript for website page https://www.trip.com/flights/ for below test cases.
+1. one-way flight from seoul to tokyo from 6th june to 12th june
+2. round-trip flight from alaska to kuala lumpur from 6th june to 24th june
+3. one-way flight from seoul to hong kong under $700
+4. earliest flight from shanghai to seoul for tomorrow

@@ -1,0 +1,2 @@
+generate test codes in javascript for website https://www.desmos.com/calculator that should include all of below test cases.
+1. input is line y = x - 1

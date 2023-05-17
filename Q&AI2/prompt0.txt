@@ -1,0 +1,1 @@
+In this chat, I want to generate JavaScript test codes for specific webpages that I will give in the prompt. I will also include the test cases in numbered lists. If the code block is too long to be generated in one response, I will ask you to continue and you will continue writing the test code from where you left.

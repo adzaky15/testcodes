@@ -1,0 +1,5 @@
+generate test codes in JavaScript for website page https://www.coupang.com/ which should include all of the below test cases.
+1. search for rice
+2. search for the cheapest air purifier
+3. search for spaghetti with free delivery
+4. search for a used airplane ticket
