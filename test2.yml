@@ -1,0 +1,34 @@
+- Test Case Name: Search for 2 weeks trip
+  Steps:
+    - Step Name: Navigate to booking page
+      Expected Result: Booking page is displayed
+    - Step Name: Enter destination and trip dates
+      Input:
+        - Destination: "Hawaii"
+        - Check-In Date: "2023-06-01"
+        - Check-Out Date: "2023-06-15"
+      Expected Result: Search results are displayed for the selected destination and dates
+    - Step Name: Select a hotel
+      Input:
+        - Hotel: "Hilton Hawaiian Village Waikiki Beach Resort"
+      Expected Result: Hotel details are displayed
+    - Step Name: Select room type and number of guests
+      Input:
+        - Room Type: "Deluxe Room"
+        - Number of Adults: 2
+        - Number of Children: 1
+        - Child Age: 5
+      Expected Result: Room details are displayed with the selected number of guests
+    - Step Name: Review and confirm booking
+      Expected Result: Booking summary is displayed with the selected hotel, room type, and number of guests
+    - Step Name: Enter guest details and payment information
+      Input:
+        - First Name: "John"
+        - Last Name: "Doe"
+        - Email: "johndoe@example.com"
+        - Phone Number: "123-456-7890"
+        - Payment Method: "Credit Card"
+        - Card Number: "1234-5678-9012-3456"
+        - Expiration Date: "06/25"
+        - CVV: "123"
+      Expected Result: Booking is confirmed and confirmation page is displayed

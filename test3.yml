@@ -1,0 +1,10 @@
+- Test Case Name: Translate Indonesian to English
+  Steps:
+    - Step Name: Navigate to Google Translate website
+      Expected Result: Google Translate website is displayed
+    - Step Name: Enter Indonesian text to be translated
+      Input:
+        - Text to be Translated: "Selamat pagi"
+        - Source Language: "Indonesian"
+        - Target Language: "English"
+      Expected Result: Translated text is displayed in English

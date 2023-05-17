@@ -1,0 +1,28 @@
+- Test Case Name: Search for single night stay in Incheon under $35
+  Steps:
+    - Step Name: Navigate to Airbnb homepage
+      Expected Result: Airbnb homepage is displayed
+    - Step Name: Enter Incheon as the destination
+      Input:
+        - Destination: "Incheon"
+      Expected Result: Search results are displayed for Incheon
+    - Step Name: Select check-in and check-out dates
+      Input:
+        - Check-In Date: "2023-06-01"
+        - Check-Out Date: "2023-06-02"
+      Expected Result: Search results are updated for the selected dates
+    - Step Name: Apply price filter for under $35
+      Input:
+        - Maximum Price: $35
+      Expected Result: Search results are updated to show only listings under $35
+    - Step Name: Select "Entire Place" property type
+      Input:
+        - Property Type: "Entire Place"
+      Expected Result: Search results are updated to show only entire places
+    - Step Name: Click on "Show more filters" and select "1 bedroom" under "Rooms and beds"
+      Input:
+        - Show More Filters: true
+        - Number of Bedrooms: 1
+      Expected Result: Search results are updated to show only listings with 1 bedroom
+    - Step Name: Click on "Search" button
+      Expected Result: Search results are updated to show only listings in Incheon with 1 bedroom for the selected dates and under $35 for a single night stay

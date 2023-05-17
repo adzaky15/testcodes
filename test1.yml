@@ -1,0 +1,19 @@
+- Test Case Name: Login with valid credentials
+  Steps:
+    - Step Name: Navigate to login page
+      Expected Result: Login page is displayed
+    - Step Name: Enter valid username and password
+      Input:
+        - Username: "testuser"
+        - Password: "testpassword"
+      Expected Result: User is logged in and redirected to home page
+
+- Test Case Name: Login with invalid credentials
+  Steps:
+    - Step Name: Navigate to login page
+      Expected Result: Login page is displayed
+    - Step Name: Enter invalid username and password
+      Input:
+        - Username: "invaliduser"
+        - Password: "invalidpassword"
+      Expected Result: Error message is displayed and user is not logged in

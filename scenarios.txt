@@ -1,0 +1,10 @@
+List of scenarios:
+-successful login
+-wrong id
+-wrong password
+-trip to Italy for two weeks
+-book airbnb in incheon
+-buy flashlight
+-convert some number
+-derive some formula
+-draw a linear
