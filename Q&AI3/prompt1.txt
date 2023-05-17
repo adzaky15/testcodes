@@ -1,5 +1,0 @@
-generate test codes for website https://iam2.kaist.ac.kr/#/userLogin, the test cases are as below.
-1. login with valid username and valid password
-2. login with valid username and invalid password
-3. login with invalid username
-4. login with valid username, valid password, and invalid OTP code
